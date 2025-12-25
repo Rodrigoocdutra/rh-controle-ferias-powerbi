@@ -80,3 +80,14 @@ rh-controle-ferias-powerbi/
 5. Escolha sua planilha real que baixou.
 6. Confirme e clique em Aplicar para atualizar o dashboard.
 
+⭐ Sobre o Autor
+
+Rodrigo Oliveira
+Analista de Tecnologia da Informação
+Especialista em suporte, infraestrutura, análise de dados e desenvolvimento de dashboards corporativos.
+
+Portfólio completo:
+🔗 https://sites.google.com/view/rodrigoocd/
+
+LinkedIn:
+🔗 https://www.linkedin.com/in/rodrigoocdutra/
